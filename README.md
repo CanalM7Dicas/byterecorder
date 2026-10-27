@@ -4,7 +4,7 @@ Gravador de tela para Windows x64, criado pelo Canal M7 Dicas.
 
 ## Download
 
-Abra a página de **Versões** e baixe `ByteRecorder-v2.0.0-Portable.exe`. Esse é o único arquivo necessário para executar o programa. Na primeira abertura, ele extrai os componentes para `%LOCALAPPDATA%\ByteRecorder\portable`.
+Abra a página de **Versões** e baixe `ByteRecorder.exe`. Esse é o arquivo da pasta `ByteRecorder-Para-Compartilhar` e o único necessário para executar o programa. Na primeira abertura, ele extrai os componentes para `%LOCALAPPDATA%\ByteRecorder\portable`.
 
 O executável ainda não tem assinatura digital. O Windows pode mostrar um aviso de reputação. Confira a origem e o hash SHA-256 exibido na versão antes de executar.
 
