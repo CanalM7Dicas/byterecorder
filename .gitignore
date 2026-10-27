@@ -1,0 +1,13 @@
+# Bases de desenvolvimento e pacotes locais ficam fora da publicação.
+Yuno Base/
+ByteRecorder-v2.0-Standalone/
+ByteRecorder-Para-Compartilhar/
+.byte-backup/
+recordings/
+outputs/
+*.exe
+*.log
+*.lnk
+*.bat
+*.vbs
+config.json

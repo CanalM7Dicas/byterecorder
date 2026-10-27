@@ -1,0 +1,15 @@
+ByteRecorder - avisos de componentes de terceiros
+
+FFmpeg 7.1 essentials build (www.gyan.dev)
+Licença: GNU General Public License, versão 3.
+O FFmpeg é um programa separado, executado pelo ByteRecorder para converter gravações.
+SHA-256 do ffmpeg.exe incluído: 2CE797A0F88D7F067180338FB227F7B1928EA727BD9A4D7A1D022F7C52AF71A3
+Pacote de origem do binário: https://github.com/GyanD/codexffmpeg/releases/tag/7.1
+Código-fonte indicado pelo fornecedor: https://github.com/FFmpeg/FFmpeg/commit/b08d7969c5
+Cópia do código-fonte: arquivo FFmpeg-7.1-source-b08d7969c5.zip na versão pública do ByteRecorder.
+O texto da licença e o README da compilação acompanham o aplicativo extraído como FFmpeg-LICENSE.txt e FFmpeg-README.txt.
+
+Electron e Chromium
+As licenças e avisos do Electron e Chromium acompanham o aplicativo extraído nos arquivos LICENSE e LICENSES.chromium.html.
+
+O código e a arte originais do ByteRecorder permanecem com todos os direitos reservados. Estas licenças de terceiros se aplicam apenas aos seus respectivos componentes.
